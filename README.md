@@ -1,4 +1,4 @@
-# Student Management System (Java)
+# Student Management System (Java)🧑🏻‍💻
 
 A console-based Java mini project to manage student records efficiently.
 
