@@ -1,19 +1,19 @@
 # Student Management System (Java)🧑🏻‍💻
 
-A console-based Java mini project to manage student records efficiently.
+## 📌 Description
+A Java console-based application to manage student records.
 
-## Features
-- Add new student
-- View all students
-- Search student by ID
-- Delete student record
-
-## Technologies Used
+## 🛠️ Technologies Used
 - Java
-- Object-Oriented Programming (OOP)
-- ArrayList
+- OOP Concepts
 
-## How to Run
-1. Download the repository
-2. Open terminal / command prompt
-3. Compile the program:
+## ✨ Features
+- Add Student
+- View Student
+- Update Student
+- Delete Student
+
+## ▶️ How to Run
+1. Clone the repository
+2. Compile Java files
+3. Run the main class
